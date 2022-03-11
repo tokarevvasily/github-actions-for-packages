@@ -65,4 +65,3 @@ jobs:
         registry: docker.pkg.github.com
         repository: tokarevvasily/github-actions-for-packages/tic-tac-toe-test
         tag_with_sha: true
-        
